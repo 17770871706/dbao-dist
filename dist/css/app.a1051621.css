@@ -1,0 +1,1 @@
+*{padding:0;margin:0;list-style:none}.tab-container{display:flex;padding:5px 10px}.tab{margin-right:5px;padding:5px;border:1px solid #ccc;cursor:pointer}::v-deep .el-aside{width:0}.el-menu-vertical-demo:not(.el-menu--collapse){width:200px;min-height:calc(100vh - 60px)}

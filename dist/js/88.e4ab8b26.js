@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkdome"]=self["webpackChunkdome"]||[]).push([[88],{56088:function(t,e,n){n.r(e),n.d(e,{default:function(){return d}});var u=function(){var t=this,e=t._self._c;return e("div",{staticClass:"box"})},r=[],s={data(){return{}}},a=s,c=n(1001),l=(0,c.Z)(a,u,r,!1,null,"6d3ca316",null),d=l.exports}}]);
+//# sourceMappingURL=88.e4ab8b26.js.map
